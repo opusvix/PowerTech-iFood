@@ -5,30 +5,30 @@ desc cliente;
 -- Cliente: Nome_Completo; CPF; Data_de_nascimento; Email; Telefone_1; Telefone_2; Logradouro; Endereco; Numero_Residencial; Bairro; Complemento; Cidade; Estado; CEP.
 insert into cliente (Nome_Completo, CPF, Data_de_nascimento, Email, Telefone_1, Telefone_2, Logradouro, Endereco, Numero_Residencial, Bairro, Complemento, Cidade, Estado, CEP) 
 		values ('Ubiratan Jesus da Motta Filho','12345678912','1995-08-21','mottaubiratan@gmail.com','41997569604',null,'rua','Vereador Yrlan Cavet','1000','Alto Boqueirão','casa 18','Curitiba ','PR','81720340'),
-				('Vera Cristina Cordeiro da Motta','98765432198','1995-05-20','veracristina@gmail.com','41999999999',null,'ave','Sete de Setembro','255','Centro',null,'Curitiba ','PR','80810060'),
-				('Henry Ubiratan Cordeiro da Motta','12378945665','2005-11-26','henrymotta@gmail.com','41998745632',null,'ala','Prudente de Moraes','3596','Merces',null,'Curitiba ','PR','81935445'),
-				('Milton Nascimento','32165498745','1942-10-26','miltonnascimento@gmail.com','41996857412',null,'mal','Floriano Peixoto','1500','Hauer',null,'Curitiba ','PR','81570090'),
-				('Tom Jobim','15948723619','1927-01-25','tomjobim@gmail.com','41996857489','51998745885','rua','Comendador Macedo','655','Alto da XV','praça','Curitiba ','PR','81920120'),
-				('Edson Arantes do Nascimento','23651948718','1940-10-23','pele@gmail.com','41991236548','11259885457','ala','Dom Pedro II','72','Batel','Apto. 15','Curitiba ','PR','82640200'),
-				('Emilio Santiago','32564197849','1946-12-06','santiagoemilio@gmail.com','41985475362','41966325487','ave','Cândido de Abreu','300','Centro Civico','Apto 403','Curitiba ','PR','81830325'),
-				('Joaquim Maria Machado de Assis','11133355598','1839-06-21','machadoassis@gmail.com','41996254159',null,'rua','Voluntários da Pátria','865','Centro','Apto 20','Curitiba ','PR','81240390'),
-				('Hilária Batista de Almeida','12398765445','1854-01-13','hilariaalmeida@gmail.com','41985436587','21885458748','rua','José Bonifácio','13','Centro','praça','Curitiba ','PR','82640620'),
-				('Carolina Maria de Jesus','33211566487','1914-03-14','carolinajesus@gmail.com','41985748623','41995636541','rua','machado de assis','1313','Higienópolis',null,'São Paulo','SP','05723340'),
-				('Sebastião Bernardes de Souza Prata','44266598791','1915-10-18','grandeotelo@gmail.com','41987987456',null,'rua','São João Batista','130','Leblon',null,'Rio de Janeiro','RJ','20241220'),
-				('Elza Soares','12365897469','1930-06-23','elzasoares@gmail.com','41998554113',null,'ave','Presidente Farias','3131','Barra da Tijuca','ap 808','Rio de Janeiro','RJ','22713573'),
-				('Gilberto Gil','15648975631','1942-06-26','gilbertogil@gmail.com','41912365498',null,'ave','Linha verde','654','Jardins',null,'São Paulo','SP','01218011'),
-				('Conceição Evaristo','32564198765','1946-11-29','evaristoconceicao@gmail.com','41900522145',null,'rua','Vereador João','101','São Sebastiao',null,'São Paulo','SP','04156030'),
-				('Milton Santos','35798641852','1926-05-03','miltonsantos@gmail.com','41990236549','41995559698','rua','Desembargador Motta','985','Capelinha','casa 2','São Paulo','SP','04775100'),
-				('Alfredo da Rocha Vianna Filho','96385274114','1897-04-23','rochavianna@gmail.com','41920007849','41336526487','rua','Tulio Genoval','2654','Belvedere',null,'Florianópolis','SC','88070730'),
-				('Bezerra da Silva','12396314785','1927-02-23','bezerrasilva@gmail.com','41991025468',null,'ave','João Escussiato','1594','Gávea','sobrado','Rio de Janeiro','RJ','21616040'),
-				('André Rebouças','65471283945','1838-01-13','andrereboucas@gmail.com','41963254987',null,'ala','Guilherme Weigart','333','Jardim Botânico',null,'Rio de Janeiro','RJ','21210300'),
-				('João da Cruz e Sousa','45682719346','1861-11-24','joaosouza@gmail.com','41925415698','415748996','est','Dona Maria','569','Ingleses','casa 1 ','Florianópolis','SC','88052655'),
-				('Benedita da Silva','32654897139','1942-04-26','beneditasilva@gmail.com','41987458963','11998569951','est','Maria Bonita','485','Jurerê','casa','Florianópolis','SC','88032320'),
-				('Leandro Roque de Oliveira','15645897698','1985-08-17','emicida@gmail.com','41990231235','21995987458','ave','Bandeirantes','213','Pinheiros','Ap 1005','São Paulo','SP','03979000'),
-				('Gustavo Pereira Marques','13345678941','1994-06-04','djonga@gmail.com','41995265148',null,'rua','Maestro Carlos Frank','598','Morumbi',null,'São Paulo','SP','03649010'),
-				('Aparecida Suely Barboza','13564987594','1971-12-28','negrasue@gmail.com','41996325874',null,'rua','Irmãos Rebouças','78','Moema',null,'São Paulo','SP','04896240'),
-				('Ubiratan Jesus da Motta ','32566598748','1970-04-10','ubiratanmotta11@gmail.com','41998745685',null,'rua','Uganda','622','Santa Cândida',null,'Curitiba ','PR','82800150'),
-				('Edilson Ramos dos Santos','52487965497','1972-11-12','ersantoss@gmail.com','41996254478','41999658955','est','Angola','652','Boa Vista',null,'Curitiba ','PR','81530245');
+			('Vera Cristina Cordeiro da Motta','98765432198','1995-05-20','veracristina@gmail.com','41999999999',null,'ave','Sete de Setembro','255','Centro',null,'Curitiba ','PR','80810060'),
+			('Henry Ubiratan Cordeiro da Motta','12378945665','2005-11-26','henrymotta@gmail.com','41998745632',null,'ala','Prudente de Moraes','3596','Merces',null,'Curitiba ','PR','81935445'),
+			('Milton Nascimento','32165498745','1942-10-26','miltonnascimento@gmail.com','41996857412',null,'mal','Floriano Peixoto','1500','Hauer',null,'Curitiba ','PR','81570090'),
+			('Tom Jobim','15948723619','1927-01-25','tomjobim@gmail.com','41996857489','51998745885','rua','Comendador Macedo','655','Alto da XV','praça','Curitiba ','PR','81920120'),
+			('Edson Arantes do Nascimento','23651948718','1940-10-23','pele@gmail.com','41991236548','11259885457','ala','Dom Pedro II','72','Batel','Apto. 15','Curitiba ','PR','82640200'),
+			('Emilio Santiago','32564197849','1946-12-06','santiagoemilio@gmail.com','41985475362','41966325487','ave','Cândido de Abreu','300','Centro Civico','Apto 403','Curitiba ','PR','81830325'),
+			('Joaquim Maria Machado de Assis','11133355598','1839-06-21','machadoassis@gmail.com','41996254159',null,'rua','Voluntários da Pátria','865','Centro','Apto 20','Curitiba ','PR','81240390'),
+			('Hilária Batista de Almeida','12398765445','1854-01-13','hilariaalmeida@gmail.com','41985436587','21885458748','rua','José Bonifácio','13','Centro','praça','Curitiba ','PR','82640620'),
+			('Carolina Maria de Jesus','33211566487','1914-03-14','carolinajesus@gmail.com','41985748623','41995636541','rua','machado de assis','1313','Higienópolis',null,'São Paulo','SP','05723340'),
+			('Sebastião Bernardes de Souza Prata','44266598791','1915-10-18','grandeotelo@gmail.com','41987987456',null,'rua','São João Batista','130','Leblon',null,'Rio de Janeiro','RJ','20241220'),
+			('Elza Soares','12365897469','1930-06-23','elzasoares@gmail.com','41998554113',null,'ave','Presidente Farias','3131','Barra da Tijuca','ap 808','Rio de Janeiro','RJ','22713573'),
+			('Gilberto Gil','15648975631','1942-06-26','gilbertogil@gmail.com','41912365498',null,'ave','Linha verde','654','Jardins',null,'São Paulo','SP','01218011'),
+			('Conceição Evaristo','32564198765','1946-11-29','evaristoconceicao@gmail.com','41900522145',null,'rua','Vereador João','101','São Sebastiao',null,'São Paulo','SP','04156030'),
+			('Milton Santos','35798641852','1926-05-03','miltonsantos@gmail.com','41990236549','41995559698','rua','Desembargador Motta','985','Capelinha','casa 2','São Paulo','SP','04775100'),
+			('Alfredo da Rocha Vianna Filho','96385274114','1897-04-23','rochavianna@gmail.com','41920007849','41336526487','rua','Tulio Genoval','2654','Belvedere',null,'Florianópolis','SC','88070730'),
+			('Bezerra da Silva','12396314785','1927-02-23','bezerrasilva@gmail.com','41991025468',null,'ave','João Escussiato','1594','Gávea','sobrado','Rio de Janeiro','RJ','21616040'),
+			('André Rebouças','65471283945','1838-01-13','andrereboucas@gmail.com','41963254987',null,'ala','Guilherme Weigart','333','Jardim Botânico',null,'Rio de Janeiro','RJ','21210300'),
+			('João da Cruz e Sousa','45682719346','1861-11-24','joaosouza@gmail.com','41925415698','415748996','est','Dona Maria','569','Ingleses','casa 1 ','Florianópolis','SC','88052655'),
+			('Benedita da Silva','32654897139','1942-04-26','beneditasilva@gmail.com','41987458963','11998569951','est','Maria Bonita','485','Jurerê','casa','Florianópolis','SC','88032320'),
+			('Leandro Roque de Oliveira','15645897698','1985-08-17','emicida@gmail.com','41990231235','21995987458','ave','Bandeirantes','213','Pinheiros','Ap 1005','São Paulo','SP','03979000'),
+			('Gustavo Pereira Marques','13345678941','1994-06-04','djonga@gmail.com','41995265148',null,'rua','Maestro Carlos Frank','598','Morumbi',null,'São Paulo','SP','03649010'),
+			('Aparecida Suely Barboza','13564987594','1971-12-28','negrasue@gmail.com','41996325874',null,'rua','Irmãos Rebouças','78','Moema',null,'São Paulo','SP','04896240'),
+			('Ubiratan Jesus da Motta ','32566598748','1970-04-10','ubiratanmotta11@gmail.com','41998745685',null,'rua','Uganda','622','Santa Cândida',null,'Curitiba ','PR','82800150'),
+			('Edilson Ramos dos Santos','52487965497','1972-11-12','ersantoss@gmail.com','41996254478','41999658955','est','Angola','652','Boa Vista',null,'Curitiba ','PR','81530245');
 
 desc produto;
 -- Produto: Nome; Categoria enum('Audio e Video',' Automotivo','Bebês','Beleza e Perfumaria','Brinquedos','Cama, Mesa e Banho','Casa e Contrução','Celular e Smartphone',
@@ -99,7 +99,6 @@ insert into produto (Nome, Categoria, Descricao, Preco_unitario, Possui_garantia
 				('Smart TV 50” 4K UHD D-LED','TVs','Smart TV 50” 4K UHD D-LED Semp RK8500 - VA Wi-Fi 4 HDMI 1 USB','2299.00','Sim','4.8','50"'),
 				('Smart TV 65” Crystal 4K Samsung','TVs','Smart TV 65” Crystal 4K Samsung 65AU7700 Wi-Fi - Bluetooth HDR Alexa Built in 3 HDMI 1 USB','3699.30','Sim','4.8','65"');
 
-
 select * from cliente;
 select * from produto;
 
@@ -110,7 +109,6 @@ insert into empresa_frete(Razao_social, Nome_fantasia, CNPJ, Responsavel, Email_
 				('Expresso São Miguel Ltda','Expresso São Miguel ','00428307000430','Miguel da Silva','frete@saomiguel.com','silvamiguel@saomiguel.com','21995245698','21998456789'),
 				('Fedex Brasil Logistica e Transporte LTDA','Fedex ','10970887000285','Frederico Lima','frete@fedex.com','frederico@fedex.com','41995002315','41995462365'),
 				('EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS','CORREIOS','34028316000103','João da Silva','frete@correios.com.br','silvajoao@correios.com.br','51999666444','51987456852');
-
 
 desc entrega;
 -- Entrega: idEntregaEmpresa_frete; Codigo_rastreio; Status_entrega enum('Separado pelo fornecedor','Saiu do centro de distribuição','A caminho da sua cidade',
@@ -134,7 +132,6 @@ insert into entrega (idEntregaEmpresa_frete, Codigo_rastreio, Status_entrega, Pr
 
 select * from empresa_frete;
 select * from entrega;
-
 
 desc carteira_digital; 
 -- Carteira Digital: Numero_carteira; Data_adesão; Valor_em_conta; Valor_de_cashback;
@@ -231,7 +228,6 @@ insert into formas_pagamento (idFormas_pagamento_cliente, idFormas_pagamento_pag
 				(23,null,null,null,null,null),
 				(24,null,null,null,null,null),
 				(25,null,null,null,null,null);
-
 
 desc pedido;
 -- Pedido: idPedidoCliente; idPedidoEntrega; idPedidoFormas_pagamento; Status_do_pedido enum('Cancelado','Em andamento','Processando','Enviado','Entregue');
@@ -359,7 +355,6 @@ insert into produto_fornecedor (idFoFornecedor, idFoProduto) values
 				(4,22),
 				(4,23),
 				(4,24);
-
 
 desc produto_em_estoque;
 -- Produto em estoque: idEsEstoque	idEsProduto	Quantidade_estoque;
